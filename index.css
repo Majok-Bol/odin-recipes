@@ -1,5 +1,9 @@
 .heading {
   text-align: center;
-  font-size: 30px;
+  font-size: 35px;
   color: blueviolet;
+}
+.intro-paragraph {
+    font-size: 22px;
+    text-align: left;
 }
