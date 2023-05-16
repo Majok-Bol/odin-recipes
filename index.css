@@ -66,3 +66,10 @@
   color: blue;
   font-size: 1.5rem;
 }
+a {
+  text-decoration: none;
+}
+.omelet-description {
+  font-size: 22px;
+  text-align: left;
+}
