@@ -34,7 +34,7 @@
   color: blueviolet;
 }
 .baby-spinach {
-  margin-left:1.0rem;
+  margin-left: 1rem;
   color: blue;
   font-size: 1.5rem;
 }
@@ -46,9 +46,19 @@
 .sweet {
   font-size: 20px;
   color: gray;
-  margin-left: 1.0rem;
+  margin-left: 1rem;
 }
 .egg-white {
   color: blue;
-  font-size:1.5rem;
+  font-size: 1.5rem;
+}
+.french {
+  margin-top: 1.5rem;
+  width: 45%;
+  height: 33rem;
+}
+.french-toast {
+  font-size: 20px;
+  color: gray;
+  margin-left: 1rem;
 }
