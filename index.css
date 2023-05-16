@@ -34,11 +34,21 @@
   color: blueviolet;
 }
 .baby-spinach {
+  margin-left:1.0rem;
   color: blue;
-font-size: larger;
+  font-size: 1.5rem;
 }
 .crepes {
   margin-top: 1.5rem;
-  width:45%;
-  height:33rem;
+  width: 45%;
+  height: 33rem;
+}
+.sweet {
+  font-size: 20px;
+  color: gray;
+  margin-left: 1.0rem;
+}
+.egg-white {
+  color: blue;
+  font-size:1.5rem;
 }
