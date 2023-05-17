@@ -79,3 +79,11 @@ a {
 .ingredients {
   font-size: 22px;
 }
+.order {
+  font-size: 22px;
+}
+.baby {
+  margin-top: 1.5rem;
+  width: 45%;
+  height: 33rem;
+}
