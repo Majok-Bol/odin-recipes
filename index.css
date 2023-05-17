@@ -46,7 +46,7 @@
 .sweet {
   font-size: 20px;
   color: gray;
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 .egg-white {
   color: blue;
@@ -60,7 +60,7 @@
 .french-toast {
   font-size: 20px;
   color: gray;
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 .french-toast-one {
   color: blue;
@@ -144,4 +144,7 @@ a {
 }
 .more {
   font-size: 22px;
+}
+.french-heading-two {
+  color: blueviolet;
 }
