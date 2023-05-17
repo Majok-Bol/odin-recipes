@@ -124,7 +124,7 @@ a {
   height: 33rem;
 }
 .basic-heading {
-  color:blueviolet
+  color: blueviolet;
 }
 .crepes-ingredients {
   font-size: 22px;
@@ -132,4 +132,10 @@ a {
 .crepes-description-paragraph {
   font-size: 22px;
   text-align: left;
+}
+.steps-crepes-heading {
+  font-size: 22px;
+}
+.crepes-list {
+  font-size: 22px;
 }
